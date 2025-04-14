@@ -4,7 +4,7 @@ I am studying using a free online textbook — [LearnCpp.com](https://www.learnc
 
 Curator of learning — [conelov](https://github.com/conelov).
 
-The beginning of learning — 25.01.2025
+The beginning of learning — 14.04.2025
 
 Прогресс обучения: 
 - [ ] 1. Введение в программирование
