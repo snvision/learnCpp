@@ -6,7 +6,7 @@ Curator of learning — [conelov](https://github.com/conelov).
 
 The beginning of learning — 14.04.2025
 
-Learning progress
+## Learning progress
 - [ ] 1. Введение в программирование
 - [ ] 2. Введение в языки программирования С и С++
 - [ ] 3. Введение в разработку программного
