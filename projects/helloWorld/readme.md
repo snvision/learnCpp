@@ -22,7 +22,13 @@ When you click to the button, text appears "Hello world!"
 on the screen of the application window.
 
 <picture>
-   <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+   <img src=
+   "https://github.com/snvision/learnCpp/blob/master/projects/helloWorld/assets/1.png">
+</picture>
+
+<picture>
+   <img src=
+   "https://github.com/snvision/learnCpp/blob/master/projects/helloWorld/assets/2.png">
 </picture>
 
 ### Compile the program
