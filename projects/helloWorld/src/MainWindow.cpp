@@ -2,6 +2,7 @@
 
 #include <ui_MainWindow.h>
 
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
@@ -18,3 +19,4 @@ void MainWindow::on_pb_print_released()
 {
   ui->l_printedText->setText("Hello World!");
 }
+
