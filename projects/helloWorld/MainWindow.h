@@ -9,6 +9,9 @@ class MainWindow;
 }
 QT_END_NAMESPACE
 
+
+
+/// @brief test
 class MainWindow : public QMainWindow
 {
     Q_OBJECT

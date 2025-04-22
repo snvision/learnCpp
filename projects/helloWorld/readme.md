@@ -32,11 +32,9 @@ Smok
 Unit 
 Vivod соответствует тех.требованиям и реализации
 <picture>
-   <img src=
-   "https://github.com/snvision/learnCpp/blob/master/projects/helloWorld/assets/1.png">
+   <img src="assets/1.png">
 </picture>
 
 <picture>
-   <img src=
-   "https://github.com/snvision/learnCpp/blob/master/projects/helloWorld/assets/2.png">
+   <img src="assets/2.png">
 </picture>

@@ -19,7 +19,7 @@ set_target_properties(${name} PROPERTIES
   AUTOUIC_SEARCH_PATHS ui
   )
 
-
+doxygen_gen(${name})
 
 
 
