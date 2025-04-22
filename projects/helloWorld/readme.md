@@ -1,6 +1,6 @@
 # helloWorld
 When you click on the button, 
-text appears "Hello world!".
+print text "Hello world!".
 
 ---
 
@@ -8,19 +8,29 @@ text appears "Hello world!".
 ### Define the problem to solve
 The main question: what problem do i want to solve?
 
-Write a simple program whith a graphical interface
+Write a simple application whith a graphical interface
 to understand the principles of development. 
 
-### Design a solution
+### Setting requirements
 The main question: how will I solve the problem?
+The result of the development is an executable application 
+with graphical interface. 
 
-Using the Qt widgets tools.
+The solution include:
+- One form.
+- Button at the bottom of the form, with the text «Print "Hello World"».
+- Label, with printe text "Hello World!" in center of the form.
+
 
 ### Write a program that implements the solution
-In file MainWindow.cpp describes the logic of the program —
-When you click to the button, text appears "Hello world!" 
-on the screen of the application window.
+doxigen
 
+
+### Testing
+Result — 
+Smok
+Unit 
+Vivod соответствует тех.требованиям и реализации
 <picture>
    <img src=
    "https://github.com/snvision/learnCpp/blob/master/projects/helloWorld/assets/1.png">
@@ -30,16 +40,3 @@ on the screen of the application window.
    <img src=
    "https://github.com/snvision/learnCpp/blob/master/projects/helloWorld/assets/2.png">
 </picture>
-
-### Compile the program
-
-
-### Link objects files
-
-
-### Test program 
-
-
-### Debug
-
-
