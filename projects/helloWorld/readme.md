@@ -23,7 +23,7 @@ The solution include:
 
 
 ### Write a program that implements the solution
-docs/html/index.html
+
 
 
 ### Testing
