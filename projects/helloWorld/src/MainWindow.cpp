@@ -12,7 +12,7 @@ MainWindow::MainWindow(QWidget* parent)
   ui->setupUi(this);
 }
 
-
+/// @brief When you click on the button, text appears "Hello World!"
 void MainWindow::on_pb_print_released() const {
   ui->l_printedText->setText("Hello World!");
 }
