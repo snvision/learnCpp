@@ -1,0 +1,10 @@
+PROJECT_NAME = helloWorld
+OUTPUT_DIRECTORY = "/home/snv/cppProjects/learnCpp/projects/helloWorld/docs"
+INPUT = "/home/snv/cppProjects/learnCpp/projects/helloWorld"
+EXCLUDE = "/home/snv/cppProjects/learnCpp/projects/helloWorld/docs" "/home/snv/cppProjects/learnCpp/projects/helloWorld/readme.md"
+RECURSIVE = YES
+EXTRACT_STATIC = YES
+EXTRACT_PRIVATE = YES
+EXTRACT_ALL = YES
+QUIET = YES
+GENERATE_LATEX = NO
