@@ -1,0 +1,10 @@
+PROJECT_NAME = c1s1_ui
+OUTPUT_DIRECTORY = "/home/snv/cppProjects/learnCpp/projects/c1s1_ui/docs"
+INPUT = "/home/snv/cppProjects/learnCpp/projects/c1s1_ui"
+EXCLUDE = "/home/snv/cppProjects/learnCpp/projects/c1s1_ui/docs" "/home/snv/cppProjects/learnCpp/projects/c1s1_ui/readme.md"
+RECURSIVE = YES
+EXTRACT_STATIC = YES
+EXTRACT_PRIVATE = YES
+EXTRACT_ALL = YES
+QUIET = YES
+GENERATE_LATEX = NO
