@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>999</width>
-    <height>778</height>
+    <width>776</width>
+    <height>981</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -522,26 +522,6 @@
             </property>
            </widget>
           </item>
-          <item>
-           <widget class="QPushButton" name="pb_main">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="font">
-             <font>
-              <family>Ubuntu Sans Mono</family>
-              <pointsize>16</pointsize>
-              <bold>false</bold>
-             </font>
-            </property>
-            <property name="text">
-             <string>  Get answer  </string>
-            </property>
-           </widget>
-          </item>
          </layout>
         </item>
         <item>
@@ -555,6 +535,26 @@
           </property>
           <property name="text">
            <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pb_main">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Ubuntu Sans Mono</family>
+            <pointsize>16</pointsize>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>  Get answer  </string>
           </property>
          </widget>
         </item>
@@ -587,26 +587,6 @@
             </property>
            </widget>
           </item>
-          <item>
-           <widget class="QPushButton" name="pb_statement">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="font">
-             <font>
-              <family>Ubuntu Sans Mono</family>
-              <pointsize>16</pointsize>
-              <bold>false</bold>
-             </font>
-            </property>
-            <property name="text">
-             <string>  Get answer  </string>
-            </property>
-           </widget>
-          </item>
          </layout>
         </item>
         <item>
@@ -620,6 +600,26 @@
           </property>
           <property name="text">
            <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pb_statement">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Ubuntu Sans Mono</family>
+            <pointsize>16</pointsize>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>  Get answer  </string>
           </property>
          </widget>
         </item>
@@ -652,32 +652,32 @@
             </property>
            </widget>
           </item>
-          <item>
-           <widget class="QPushButton" name="pb_function">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="font">
-             <font>
-              <family>Ubuntu Sans Mono</family>
-              <pointsize>16</pointsize>
-              <bold>false</bold>
-             </font>
-            </property>
-            <property name="text">
-             <string>  Get answer  </string>
-            </property>
-           </widget>
-          </item>
          </layout>
         </item>
         <item>
          <widget class="QLabel" name="l_function_answer">
           <property name="text">
            <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pb_function">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Ubuntu Sans Mono</family>
+            <pointsize>16</pointsize>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>  Get answer  </string>
           </property>
          </widget>
         </item>
@@ -717,32 +717,32 @@
             </property>
            </widget>
           </item>
-          <item>
-           <widget class="QPushButton" name="pb_run">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="font">
-             <font>
-              <family>Ubuntu Sans Mono</family>
-              <pointsize>16</pointsize>
-              <bold>false</bold>
-             </font>
-            </property>
-            <property name="text">
-             <string>  Get answer  </string>
-            </property>
-           </widget>
-          </item>
          </layout>
         </item>
         <item>
          <widget class="QLabel" name="l_run_answer">
           <property name="text">
            <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pb_run">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Ubuntu Sans Mono</family>
+            <pointsize>16</pointsize>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>  Get answer  </string>
           </property>
          </widget>
         </item>
@@ -775,32 +775,32 @@
             </property>
            </widget>
           </item>
-          <item>
-           <widget class="QPushButton" name="pb_symbol">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="font">
-             <font>
-              <family>Ubuntu Sans Mono</family>
-              <pointsize>16</pointsize>
-              <bold>false</bold>
-             </font>
-            </property>
-            <property name="text">
-             <string>  Get answer  </string>
-            </property>
-           </widget>
-          </item>
          </layout>
         </item>
         <item>
          <widget class="QLabel" name="l_symbol_answer">
           <property name="text">
            <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pb_symbol">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Ubuntu Sans Mono</family>
+            <pointsize>16</pointsize>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>  Get answer  </string>
           </property>
          </widget>
         </item>
@@ -833,32 +833,32 @@
             </property>
            </widget>
           </item>
-          <item>
-           <widget class="QPushButton" name="pb_error">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="font">
-             <font>
-              <family>Ubuntu Sans Mono</family>
-              <pointsize>16</pointsize>
-              <bold>false</bold>
-             </font>
-            </property>
-            <property name="text">
-             <string>  Get answer  </string>
-            </property>
-           </widget>
-          </item>
          </layout>
         </item>
         <item>
          <widget class="QLabel" name="l_error_answer">
           <property name="text">
            <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pb_error">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Ubuntu Sans Mono</family>
+            <pointsize>16</pointsize>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>  Get answer  </string>
           </property>
          </widget>
         </item>
@@ -898,26 +898,6 @@
             </property>
            </widget>
           </item>
-          <item>
-           <widget class="QPushButton" name="pb_library">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="font">
-             <font>
-              <family>Ubuntu Sans Mono</family>
-              <pointsize>16</pointsize>
-              <bold>false</bold>
-             </font>
-            </property>
-            <property name="text">
-             <string>  Get answer  </string>
-            </property>
-           </widget>
-          </item>
          </layout>
         </item>
         <item>
@@ -931,6 +911,26 @@
           </property>
           <property name="text">
            <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pb_library">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Ubuntu Sans Mono</family>
+            <pointsize>16</pointsize>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>  Get answer  </string>
           </property>
          </widget>
         </item>

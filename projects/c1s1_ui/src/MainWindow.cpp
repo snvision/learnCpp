@@ -14,29 +14,31 @@ MainWindow::MainWindow(QWidget* parent)
 
 
 void MainWindow::on_pb_main_released() const {
-  ui->l_main_answer->setText("Answer1");
+  ui->l_main_answer->setText("main()");
 }
 
 void MainWindow::on_pb_statement_released() const {
-  ui->l_statement_answer->setText("Answer2");
+  ui->l_statement_answer->setText("Statement — instruction in computer program, "
+                                    "that telling computer to perform an action.");
 }
 
 void MainWindow::on_pb_function_released() const {
-  ui->l_function_answer->setText("Answer3");
+  ui->l_function_answer->setText("Function — a named sequence of statements, "
+                                   "that can be reused several times.");
 }
 
 void MainWindow::on_pb_run_released() const {
-  ui->l_run_answer->setText("Answer4");
+  ui->l_run_answer->setText("The statements in main() are executed in sequence order.");
 }
 
 void MainWindow::on_pb_symbol_released() const {
-  ui->l_symbol_answer->setText("Answer5");
+  ui->l_symbol_answer->setText(";");
 }
 
 void MainWindow::on_pb_error_released() const {
-  ui->l_error_answer->setText("Answer6");
+  ui->l_error_answer->setText("Syntax error — error in using rules of the C++ language.");
 }
 
 void MainWindow::on_pb_library_released() const {
-  ui->l_library_answer->setText("Answer7");
+  ui->l_library_answer->setText("Library — code for subsequence reuse.");
 }
